@@ -1,2 +1,2 @@
-# Columbia_HTML-CSS-Layout
+# Columbia_HTML_CSS_Layout
 Building a basic portfolio website with HTML and CSS
